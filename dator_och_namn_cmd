@@ -1,0 +1,2 @@
+@echo off
+NET users > dator_och_namn.txt
