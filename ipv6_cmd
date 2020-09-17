@@ -1,0 +1,2 @@
+@echo off
+ipconfig/all | find "IPv6 Address" > ipv6.txt
